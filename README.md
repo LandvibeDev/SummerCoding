@@ -6,7 +6,7 @@
 - 허규정, 김현석, 배수민, 김용준, 박병준
 
 ### [머신러닝/딥러닝 입문](https://github.com/LandvibeDev/LSC2020/issues/7)
-- 최승위, 박재형, 남윤호, 조현우, 안유진, 이소명, 박지민, 최예림
+- 최승위, 박재형, 남윤호, 조현우, 이소명, 박지민, 최예림
 - 스터디 진행 내용/발표 자료: https://www.notion.so/positiwee/7b119020aeee4130ba1383c253f8321b
 - 스터디 강의 영상: http://naver.me/xas2zNCg (pwd: landvibe / 추후 LANDVIBE 유튜브 채널에 업로드 예정)
 
