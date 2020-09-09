@@ -20,6 +20,7 @@ https://github.com/LandvibeDev/LSC2020/issues
 - 최용, 김현석, 김현회, 김혜인, 김예진, 최을호, 김종신, 양민승, 피수영
 - 앱(알람메모): https://play.google.com/store/apps/details?id=com.landvibe.alamemo
 - 앱(다짐일기): https://play.google.com/store/apps/details?id=com.landvibe.reviewtest
+- 앱(투두리스트): https://play.google.com/store/apps/details?id=com.softsquared.myapplication
 
 ### [iOS Study](https://github.com/LandvibeDev/LSC2020/issues/2)
 - 이준, 도연서, 안유진
