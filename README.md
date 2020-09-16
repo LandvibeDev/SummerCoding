@@ -17,10 +17,13 @@ https://github.com/LandvibeDev/LSC2020/issues
 - 김련호, 정민교, 박성희
 
 ### [Android 앱 개발](https://github.com/LandvibeDev/LSC2020/issues/8)
-- 최용, 김현석, 김현회, 김혜인, 김예진, 최을호, 김종신, 양민승, 피수영
-- 앱(알람메모): https://play.google.com/store/apps/details?id=com.landvibe.alamemo
-- 앱(다짐일기): https://play.google.com/store/apps/details?id=com.landvibe.reviewtest
-- 앱(투두리스트): https://play.google.com/store/apps/details?id=com.softsquared.myapplication
+- 최용
+- 1반 : 각자의 앱 만들기 ( 김현석, 김현회, 김혜인, 김예진, 최을호, 김종신 )
+   - 앱(알람메모): https://play.google.com/store/apps/details?id=com.landvibe.alamemo
+   - 앱(다짐일기): https://play.google.com/store/apps/details?id=com.landvibe.reviewtest
+   - 앱(투두리스트): https://play.google.com/store/apps/details?id=com.softsquared.myapplication
+   - 앱(오늘의 색): https://play.google.com/store/apps/details?id=com.landvibe.howwasyourday
+- 2반 : 협업으로 앱 만들기 ( 양민승, 피수영 ) 
 
 ### [iOS Study](https://github.com/LandvibeDev/LSC2020/issues/2)
 - 이준, 도연서, 안유진
