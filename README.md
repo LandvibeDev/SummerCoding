@@ -18,6 +18,7 @@ https://github.com/LandvibeDev/SummerCoding/issues
 
 ### [코틀린으로 간단한 앱 만들기](https://github.com/LandvibeDev/LSC2020/issues/13)
 - 김종신, 장유진, 임주민, 오형석, 김유리, 박민우, 김민정, 한승현, 김혜인, 김민경
+- 스터디 자료 : https://github.com/LandvibeDev/2021-Android-with-Kotlin
 
 
 # Landvibe Summer Coding 2020
