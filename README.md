@@ -9,6 +9,7 @@ https://github.com/LandvibeDev/SummerCoding/issues
 
 ### [Java & Spring 웹 어플리케이션 개발](https://github.com/LandvibeDev/LSC2020/issues/14)
 - 전준호, 조대환, 도준영, 이소명, 김예진, 김효빈, 이채연
+- 스터디 자료 : https://jh.notion.site/2f5154016b364e718f53dfebaaef8834
 
 ### [도커와 쿠버네티스 입문하기](https://github.com/LandvibeDev/LSC2020/issues/17)
 - 최승위, 남윤호, 이경수, 박준희, 박인성, 이한솔, 남현진, 김건희
