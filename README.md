@@ -1,6 +1,13 @@
 # 스터디 주제
 https://github.com/LandvibeDev/SummerCoding/issues
 
+
+
+---
+
+<details>
+    <summary>과거 스터디 주제</summary>
+
 # Landvibe Summer Coding 2021
 ## Projects
 
@@ -61,3 +68,5 @@ https://github.com/LandvibeDev/SummerCoding/issues
 - 김건희, 안도영, 고정민, 이소정, 곽지원, 강보윤, 이진승, 심수연, 남지선, 강지수
 - 소스코드: [web-ide-front](https://github.com/LandvibeDev/web-ide-front), [web-ide-controller](https://github.com/LandvibeDev/web-ide-controller), [web-ide-worker-proxy](https://github.com/LandvibeDev/web-ide-worker-proxy), [web-ide-workerpool](https://github.com/LandvibeDev/web-ide-workerpool)
 - 스터디 자료: https://drive.google.com/drive/folders/1iPy9c5hTftHH65o5_scz9dJaJBmgeSw2
+
+</details>
